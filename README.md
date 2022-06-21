@@ -43,3 +43,17 @@ dotnet add CleanArchMvc.Infra.IoC reference .\CleanArchMvc.Domain\CleanArchMvc.D
 dotnet add CleanArchMvc.Infra.IoC reference .\CleanArchMvc.Infra.Data\CleanArchMvc.Infra.Data.csproj
 #
 dotnet add CleanArchMvc.WebUI reference .\CleanArchMvc.Infra.IoC\CleanArchMvc.Infra.IoC.csproj
+
+# Microsoft.EntityFrameworkCore.SqlServer
+# Microsoft.EntityFrameworkCore.Tools
+# Microsoft.EntityFrameworkCore.Design
+
+
+
+
+
+
+
+
+
+
