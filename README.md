@@ -44,6 +44,7 @@ dotnet add CleanArchMvc.Infra.IoC reference .\CleanArchMvc.Infra.Data\CleanArchM
 #
 dotnet add CleanArchMvc.WebUI reference .\CleanArchMvc.Infra.IoC\CleanArchMvc.Infra.IoC.csproj
 
+## Incluir referência aos pacotes Nuget
 # Microsoft.EntityFrameworkCore.SqlServer
 # Microsoft.EntityFrameworkCore.Tools
 # Microsoft.EntityFrameworkCore.Design
