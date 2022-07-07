@@ -50,10 +50,17 @@ dotnet add CleanArchMvc.WebUI reference .\CleanArchMvc.Infra.IoC\CleanArchMvc.In
 # Microsoft.EntityFrameworkCore.Design
 
 
+# Alguns comandos: EF Core Migrations
 
+## VISUAL STUDIO:
+# update-database
+# remove-migration
+# get-migration (EF 5.0)
 
-
-
+## NET CLI
+# dotnet ef database
+# dotnet ef migration
+# dotnet ef migration list
 
 
 
