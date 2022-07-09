@@ -62,6 +62,8 @@ dotnet add CleanArchMvc.WebUI reference .\CleanArchMvc.Infra.IoC\CleanArchMvc.In
 # dotnet ef migration
 # dotnet ef migration list
 
+# dotnet add package AutoMapper --version 10.1.1
+
 
 
 
