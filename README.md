@@ -63,6 +63,9 @@ dotnet add CleanArchMvc.WebUI reference .\CleanArchMvc.Infra.IoC\CleanArchMvc.In
 # dotnet ef migration list
 
 # dotnet add package AutoMapper --version 10.1.1
+# dotnet add package MediatR --version 9.0.0
+
+
 
 
 
